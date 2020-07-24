@@ -13,6 +13,6 @@
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I am deeply into **space** **physics** :rocket:, **quantum** **physics** & **Dragon** **Ball** **anime** :fire:
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashshah2820&hide_border=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=yashshah2820&hide_border=false&show_icons=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshah2820&hide_border=true&hide=javascript,html">
