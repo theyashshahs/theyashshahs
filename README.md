@@ -4,7 +4,7 @@
 **yashshah2820/yashshah2820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on **[studybuddy](https://github.com/iiitv/studybuddy-backend)**
-- 👨‍✈️ I'm __Maintainer__ at **[@iiitv](https://github.com/iiitv)** & __Project Manager__ at **[@anitab-org](https://github.com/anitab-org)**
+- 👨‍✈️ I'm __Maintainer__ at **[@iiitv](https://github.com/iiitv)**
 - 🌱 I’m currently learning **React** ❄ and **AWS** :cloud:
 - 👯 I’m looking to collaborate on projects involving **Python** and **JS**
 - 🤔 I’m looking for help with understanding people's selective behaviour
