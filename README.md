@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on projects involving **Python** and **JS**
 - 🤔 I’m looking for help with understanding people's selective behaviour
 - 💬 I would like to discuss about **Django**, **Django** **Rest** **Framework**
-- 📫 How to reach me: **[@yashshah2820](https://twitter.com/yashshah2820)**
+- 📫 How to reach me: **[@yashshah2820](https://twitter.com/theyashshahs)**
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I am deeply into **space** **physics** :rocket:, **quantum** **physics** & **Dragon** **Ball** **anime** :fire:
 
