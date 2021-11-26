@@ -3,7 +3,7 @@
 <!--
 **yashshah2820/yashshah2820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 👨‍✈️ I'm __Maintainer__ at **[@iiitv](https://github.com/iiitv)**
+- 👨‍✈️ I'm **Maintainer** at **[@iiitv](https://github.com/iiitv)**
 - 🌱 I’m currently learning **Golang**.
 - 👯 I’m looking to collaborate on projects involving **Python** and **JS**
 - 🤔 I’m looking for help with understanding people's selective behaviour
