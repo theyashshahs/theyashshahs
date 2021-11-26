@@ -1,4 +1,4 @@
-### Hey there, I am Yash! 👋
+### Hey there, I am Yesh! 👋
 
 <!--
 **yashshah2820/yashshah2820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
