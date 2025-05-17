@@ -5,9 +5,9 @@
 
 - 👨‍✈️ I'm __Maintainer__ at **[@iiitv](https://github.com/iiitv)**
 - 🌱 I’m currently learning **Golang**.
-- 👯 I’m looking to collaborate on projects involving **Python** and **JS**
+- 👯 I’m looking to collaborate on projects involving **Python** and **Java**
 - 🤔 I’m looking for help with understanding people's selective behaviour
-- 💬 I would like to discuss about **Django**, **Django** **Rest** **Framework**
+- 💬 I would like to discuss about **Django**, **Django** **Rest** **Framework**, **Java**
 - 📫 How to reach me: **[@theyashshahs](https://theyashshahs.com/)**
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I am deeply into **astrophysics** :rocket:, **quantum** **physics** & **anime** :fire:
